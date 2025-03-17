@@ -6,7 +6,7 @@ pipeline {
             steps {
                 script {
                     git branch: 'master', 
-                        url: 'https://github.com/sommygee/jenkins-git-integration.git'
+                        url: 'https://github.com/Salamiolatunde/jenkins-git-integration.git'
                 }
             }
         }
